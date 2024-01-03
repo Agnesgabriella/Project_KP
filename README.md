@@ -1,4 +1,4 @@
-<h1 align="center">Absen Digital Codeigniter 3 [EOL]</h1>
+<h1 align="center">Absen Online</h1>
 
 ## Fitur
 
